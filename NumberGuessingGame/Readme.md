@@ -20,13 +20,13 @@
 1. Clone or download the repository.
 2. Open the project in your Python IDE (e.g., VS Code, PyCharm) or run in the terminal.
 3. Run the Python file:
-   ```bash
-   python guessitnum.py
+```bash
+python guessitnum.py
 4.Enter a number between 1 and 100 when prompted.
 5.Follow the hints to guess the correct number.
 6.The game will display:
-  Number of attempts
-  Your guess history
+Number of attempts
+Your guess history
 7.Guess correctly to win! 🎉
 
 ---
@@ -63,11 +63,11 @@ Your Guesses [50, 40, 30, 20, 10, 9, 2, 3, 4]
 
 1.Make sure Python is installed (version 3.6 or higher recommended)
 2.Clone the repository:
-   git clone https://github.com/your-username/guessitnum.git
+git clone https://github.com/your-username/guessitnum.git
 3.Navigate to the project folder:
-   cd guessitnum
+cd guessitnum
 4.Run the game:
-  python guessitnum.py
+python guessitnum.py
 
 
 ## Author
