@@ -20,7 +20,7 @@
 1. Clone or download the repository.
 2. Open the project in your Python IDE (e.g., VS Code, PyCharm) or run in the terminal.
 3. Run the Python file:
-   '''bash
+   ```bash
    python guessitnum.py
 4.Enter a number between 1 and 100 when prompted.
 5.Follow the hints to guess the correct number.
