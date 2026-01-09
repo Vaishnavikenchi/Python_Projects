@@ -9,6 +9,8 @@ SmartVault ATM Simulator is a console-based application that provides a secure a
 It focuses on user authentication, financial transactions, and basic banking rules like daily withdrawal limits.
 
 
+
+
 ## 🚀 Features
 
 🔐 Secure PIN Authentication
@@ -21,14 +23,18 @@ It focuses on user authentication, financial transactions, and basic banking rul
 📅 Session Date & Time Display
 
 
+
 ## 🛠️ Technologies Used
 
 Programming Language: Python 3
 IDE: Visual Studio Code
 
 
+
 ## Libraries:
 datetime (for date and time handling)
+
+
 
 ## 📂 Project Structure
 SmartVault-ATM-Simulator/
@@ -37,16 +43,19 @@ SmartVault-ATM-Simulator/
 ├── README.md     
 
 
+
 ## ▶️ How to Run the Project
 
 1️⃣ Prerequisites
 Python 3 installed on your system
 Visual Studio Code (recommended)
 
+
 2️⃣ Steps to Run
 python atm.py
 or (Mac/Linux):
 python3 atm.py
+
 
 
 ## 🧠 Concepts Covered
@@ -68,6 +77,7 @@ Database integration
 Multiple user accounts
 Receipt generation in PDF
 OTP-based authentication
+
 
 
 ## Sample Output
