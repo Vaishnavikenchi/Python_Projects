@@ -1,6 +1,8 @@
 ## 🏦 SmartVault ATM Simulator
 
+
 A Python-based ATM Simulation Project that mimics real-world ATM operations such as secure login, balance inquiry, deposits, withdrawals, PIN management, and transaction history. This project is designed for beginners to understand core Python concepts through a practical use case.
+
 
 
 ## 📌 Project Overview
@@ -46,6 +48,7 @@ SmartVault-ATM-Simulator/
 
 ## ▶️ How to Run the Project
 
+
 1️⃣ Prerequisites
 Python 3 installed on your system
 Visual Studio Code (recommended)
@@ -81,6 +84,7 @@ OTP-based authentication
 
 
 ## Sample Output
+
 
 Enter PIN: 9824
 
@@ -162,8 +166,11 @@ Enter new PIN: 1234
 6. Exit
 Enter your choice: 6
 
+
 Thank you for using SmartVault ATM 
 Date: 2026-01-08 14:25:43.612345
+
+
 
 
 ## 👨‍💻 Author
